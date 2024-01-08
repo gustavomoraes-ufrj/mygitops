@@ -1,5 +1,5 @@
 from alpine
-MAINTAINER Sander <mail@sandervanvugt.nl>
+MAINTAINER Gustavo <gustavomoraes.ufrj@gmail.com>
 
 # Install cool software
 RUN     apk add curl git && \
